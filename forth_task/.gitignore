@@ -1,4 +1,7 @@
 filtered_data/*
+data/
 .DS_Store
 100k/
 10k/
+
+outputs/
