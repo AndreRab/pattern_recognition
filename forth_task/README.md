@@ -1,2 +1,2 @@
-Trafic sign classifier report: [Traffic_Sign_Classifier.md](forth_task/Traffic_Sign_Classifier.md)
-Trafic lights classifier notebook: [traffic_lights.ipynb](forth_task/traffic_lights.ipynb)
+- Trafic sign classifier report: [Traffic_Sign_Classifier.md](https://github.com/AndreRab/pattern_recognition/blob/main/forth_task/Traffic_Sign_Classifier.md)
+- Trafic lights classifier notebook: [traffic_lights.ipynb](https://github.com/AndreRab/pattern_recognition/blob/main/forth_task/traffic_lights.ipynb)
